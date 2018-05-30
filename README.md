@@ -1,2 +1,1 @@
-# TestDevopsPrj
-Devops Training Rep
+# Project
